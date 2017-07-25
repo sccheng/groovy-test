@@ -1,0 +1,51 @@
+python-requests/2.18.1
+python-requests/2.12.4
+watson-developer-cloud-python-0.26.0
+Python-urllib/2.7
+PycURL/7.43.0 libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+
+watson-apis-java-sdk/3.7.2 (java.vendor=Oracle Corporation; java.version=1.8.0_45; os.arch=amd64; os.name=Linux; os.version=4.1.13-19.30.amzn1.x86_64)
+watson-apis-java-sdk/3.0.1 (java.vendor=IBM Corporation; java.version=1.7.0; os.arch=amd64; os.name=Windows 7; os.version=6.1; )
+watson-apis-java-sdk/unknown-version
+watson-apis-java-sdk/3.5.10-SNAPSHOT
+watson-developer-cloud-java-wrapper-2.0.0
+Java/1.8.0
+Java/1.8.0_91
+Java/1.7.0_45
+Apache-HttpClient/4.4.1 (Java/1.8.0)
+Apache-CXF/3.1.11
+okhttp/2.7.2
+
+watson-developer-cloud-nodejs-2.33.0
+watson-developer-cloud-nodejs-2.31.1
+watson-developer-cloud-nodejs-2.29.0
+watson-developer-cloud-nodejs-2.27.0
+watson-developer-cloud-nodejs-1.12.2
+node-XMLHttpRequest
+
+watson-apis-swift-sdk/0.14.0 iOS/10.3.2
+
+Go-http-client/1.1
+Golang Watson SDK v0.1
+
+UbiServices_SDK_HTTP_Client_3.2.30.180796_PS4 libhttp/4.71 (PlayStation 4)
+
+Ruby
+
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:52.0) Gecko/20100101 Firefox/52.0
+
+curl/7.26.0
+curl/7.38.0
+curl/7.19.7 (x86_64-redhat-linux-gnu) libcurl/7.19.7 NSS/3.15.3 zlib/1.2.3 libidn/1.18 libssh2/1.4.2
+
+RestSharp/105.2.3.0
+tsung
+Q&A Manager
+Super Agent/0.0.1
+watson-api-explorer
+Solr[org.apache.solr.client.solrj.impl.HttpSolrClient] 1.0
+Typhoeus - https://github.com/typhoeus/typhoeus
+Wink Client v1.1.1
+SelfWebClient
