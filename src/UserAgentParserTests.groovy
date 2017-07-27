@@ -1,15 +1,11 @@
-class Tests extends GroovyTestCase {
-
-    void testEqual() {
-        assert 1 == 1
-    }
+class UserAgentParserTests extends GroovyTestCase {
 
     void testEmptyNullAgent() {
-        println UserAgentParser.parse(null)
+        assertEquals(null, UserAgentParser.parse(null))
     }
 
     void testEmptyUserAgent() {
-        println UserAgentParser.parse("")
+        assertEquals(null, UserAgentParser.parse(""))
     }
 
     void testValidUserAgent() {
